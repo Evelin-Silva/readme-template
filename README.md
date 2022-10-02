@@ -1,28 +1,24 @@
 ## Olá dev! ✨
 
-<h2>Projeto: (nome do projeto)</h2>
+<h3> Projeto: (nome do projeto) </h3>
 
 [🔗 Link para o projeto](link)
 
 <br>
 
-<h3>👀 Preview:</h3>
+<h4>👀 Preview:</h4>
 
 ![imagem aqui](link)
 
 #
 
-<h2>🧩 Objetivo:</h2>
-
-<br>
+<h3>🧩 Objetivo:</h3>
 
 > descreva aqui...
 
 #
 
-<h2>🗯️ Linguagens:</h2>
-
-<br>
+<h3>🗯️ Linguagens:</h3>
 
 * linguagem 1
 * linguagem 2
