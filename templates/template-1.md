@@ -1,25 +1,52 @@
-## Olá dev! ✨
+## Hey Dev! 😄
 
-<h3> Projeto: (nome do projeto) </h3>
+### 🏗️ Projeto:
 
-[🔗 Link para o projeto](link)
+> Título aqui.
 
-<br>
+[🔗 Link para acessar a página](link)
 
-<h4>👀 Preview:</h4>
+#### 🎃 Prévia:
 
-![imagem aqui](link)
+![Titulo da imagem](caminho da imagem)
 
-#
+### 🎯 Objetivo:
 
-<h3>🧩 Objetivo:</h3>
+> Escreva aqui o seu objetivo.
 
-> descreva aqui...
+#### ✏️ Descrição:
 
-#
+> Descreva o projeto neste tópico.
 
-<h3>🗯️ Linguagens:</h3>
+> Pode ser adicionado outro tópico aqui ✨
 
-* linguagem 1
-* linguagem 2
-* linguagem 3
+#### ⚙️ Tecnologias usadas:
+
+> Uma linguagem;
+
+> Mais uma;
+
+> Mais outra.
+
+#### O projeto original:
+
+[🎬 Vídeo](link)
+
+[📂 Repositório](link)
+
+[👨‍💻 Perfil do criador](link)
+
+## Colaboradores:
+
+<p style="width: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 5px">
+    <img src="(endereço da imagem)" style="height: 100px;
+    border: solid white 1px;
+    border-radius: 50%;">
+    <span>Nome do colaborador</span>
+</p>
+
+> Você pode adicionar mais pessoas!

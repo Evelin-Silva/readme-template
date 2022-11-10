@@ -1,25 +1,32 @@
-## Olá dev! ✨
+## Hey Dev! 😄
 
-<h3> Projeto: (nome do projeto) </h3>
+### 🏗️ Projeto:
 
-[🔗 Link para o projeto](link)
+> Template padrão para readme.
 
-<br>
+### 🎯 Objetivo:
 
-<h4>👀 Preview:</h4>
+> Padronizar meus readmes e disponibilizar para mais pessoas.
 
-![imagem aqui](link)
+#### ✏️ Descrição:
 
-#
+> A ideia surgiu quando eu precisava adicionar readmes aos meus projetos, mas não sabia o que escrever. Desse ponto eu pesquisei os tópicos mais pedidos e montei este para usar como padrão.
 
-<h3>🧩 Objetivo:</h3>
+#### ⚙️ Tecnologias usadas:
 
-> descreva aqui...
+> Markdown;
 
-#
+> HTML5;
 
-<h3>🗯️ Linguagens:</h3>
+## Colaboradores:
 
-* linguagem 1
-* linguagem 2
-* linguagem 3
+<p style="width: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 5px">
+    <img src="https://github.com/index-evelin.png" style="height: 100px;
+    border: solid white 1px;
+    border-radius: 50%;">
+    <span>Index-evelin</span>
+</p>
